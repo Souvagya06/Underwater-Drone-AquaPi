@@ -47,8 +47,6 @@ The drone integrates multiple sensors, camera streaming, motor control, and a we
 - Waterproof drone body
 - Flask web dashboard
 
-
-
 ---
 
 ## ▶️ How to Run
@@ -84,4 +82,10 @@ Engineering Underwater Drone Project
 
 ## 📜 License
 This project is intended for academic and research purposes.
+
+---
+
+## 📄 Project Report
+The complete project documentation is available in the `docs` folder.
+
 
