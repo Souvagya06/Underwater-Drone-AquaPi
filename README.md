@@ -76,6 +76,9 @@ python camera/webcam_stream.py
 
 ## 👨‍💻 Author
 **Souvagya Karmakar**  
+Full Stack Developer (Fronntend & Backend Lead)
+
+**Suchismita Basak**
 Engineering Underwater Drone Project
 
 ---
