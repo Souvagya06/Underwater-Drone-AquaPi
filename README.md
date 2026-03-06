@@ -78,8 +78,8 @@ python camera/webcam_stream.py
 **Souvagya Karmakar**  
 Full Stack Developer (Fronntend & Backend Lead)
 
-**Souvagya Karmakar**  
-Full Stack Developer (Fronntend & Backend Lead)
+**Suchismita Basak**  
+Hardware Implementation 
 
 ---
 
